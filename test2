@@ -3,3 +3,5 @@ git branch branchname
 git checkout branchname
 git branch -d branchname
 git merge branchname
+git push -u orgin class1
+
