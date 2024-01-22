@@ -1,0 +1,7 @@
+--version
+init
+add 
+add.
+commit -m
+before commit stash
+stash pop
