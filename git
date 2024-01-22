@@ -1,1 +1,9 @@
 git config
+git status
+git clone
+git add .
+git log
+git blame filename
+git diff
+git commit
+git aliash
