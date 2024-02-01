@@ -4,5 +4,9 @@ stat3
 stat4
 stat5
 stat6
+<<<<<<< Updated upstream
 stat7
 
+=======
+stat7
+>>>>>>> Stashed changes
